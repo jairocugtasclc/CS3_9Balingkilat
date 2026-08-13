@@ -5,8 +5,8 @@
 SG2 Activity 2: Chinese Zodiac Sign
 
 Python File: 
-Photos:
+<br> Photos:
 ![Code](../images/screenshot1.png)
-![Example Output](screenshot 2.jpg)
-![Example Error](screenshot 3.jpg)
+![Example Output](../images/screenshot2.png)
+![Example Error](../images/screenshot3.png)
 
