@@ -2,7 +2,7 @@
 
 | Names | Info |
 | ----------- | ----------- |
-| #10 - Cugtas, Jairo Vincent M.	     | 08/13/26 |
+| #10 - Cugtas, Jairo Vincent M.	     | 08/16/26 |
 | #11 - Felera, Nathaniel Philip D.		 | CS3 - ILA |
 | #12 - Perez, Lloydrie A.			       | 9 - Balingkilat |
 				                                                                      	
