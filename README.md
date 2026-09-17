@@ -16,6 +16,6 @@ SG4 FA4:
 
 SG5 Activity 1: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/q1/q1_sg5_a1_Balingkilat_Cugtas.py
 
-SG6 Challenge 1: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/q1/q1_sg6_Balingilat_Cugtas.py
+SG6 Challenge 1: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/q1/q1_sg6_Balingkilat_Cugtas.py
 
-SG6 Code: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/q1/q1_sg7_Balingilat_Cugtas.py
+SG6 Code: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/q1/q1_sg7_Balingkilat_Cugtas.py
