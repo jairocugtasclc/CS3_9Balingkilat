@@ -20,6 +20,6 @@ SG6 Challenge 1: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/q1
 
 SG6 Code: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/q1/q1_sg7_Balingkilat_Cugtas.py
 
-Sample Car Code: SG6 Code: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/code/samplecodes/SampleCar.py
+Sample Car Code: SG6 Code: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/codes/samplecodes/SampleCar.py
 
-Sample Tusok-Tusok Code: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/code/samplecodes/SampleTusokTusok.py
+Sample Tusok-Tusok Code: https://github.com/jairocugtasclc/CS3_9Balingkilat/blob/main/codes/samplecodes/SampleTusokTusok.py
