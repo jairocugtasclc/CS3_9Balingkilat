@@ -8,7 +8,7 @@ Jairo Loves Basketball, Eating, and Cooking.
 ![Basketball](../images/basketball.jpg)
 Basketball
 <br>
-![Sushi](../images/also_yummy.jpg)
+![Sushi](../images/alsoyummy.jpg)
 Yummy Sushi
 <br>
 ![KingCrabPasta](../images/yUMMY.jpg)
