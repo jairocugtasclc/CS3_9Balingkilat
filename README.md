@@ -11,7 +11,7 @@ Basketball
 ![Sushi](../images/alsoyummy.jpg)
 Yummy Sushi
 
-![KingCrabPasta](../images/yUMMY.jpg)
+![KingCrabPasta](../images/screenshot1.png)
 Yummy Pasta
 
 ---
