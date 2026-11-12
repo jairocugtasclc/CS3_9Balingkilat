@@ -30,4 +30,4 @@ print(f"[Temperature Sensor] Reading: {my_tempsensor.get_reading()}")
 print("\n----------------------------")
 
 #Task 5 (The "Break it" Test):
-#my_sensor = Sensor() 
+my_sensor = Sensor()  # Raises TypeError: Sensor is abstract and cannot be instantiated.
